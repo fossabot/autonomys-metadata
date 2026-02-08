@@ -1,4 +1,6 @@
 #  Autonomys Metadata 🌗
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fautonomys-metadata.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fautonomys-metadata?ref=badge_shield)
+
 
 Metadata Portal is a self-hosted web page that shows you the latest metadata for a given Autonomys network.
 
@@ -65,3 +67,6 @@ npm install
 ```bash
 npm run deploy
 ```
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fautonomys-metadata.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fautonomys-metadata?ref=badge_large)
